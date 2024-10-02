@@ -1,0 +1,22 @@
+.menuIcon {
+    /* color: white; */
+    font-size: 30px;
+
+}
+
+
+
+.menuBtn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    /* background-color: red; */
+
+}
+
+.SearchIcon{
+   margin-left: 10px;
+  cursor: pointer;
+}
+
+
